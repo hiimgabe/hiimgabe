@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/JaeSeoKim/badge42"><img width="100%" src="https://badge42.vercel.app/api/v2/cli30wsxg002608mrfw4eezh3/stats?cursusId=21&coalitionId=294" alt="gamoreir's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli30wsxg002608mrfw4eezh3/stats?cursusId=21&coalitionId=294" alt="gamoreir's 42 stats" /></a>

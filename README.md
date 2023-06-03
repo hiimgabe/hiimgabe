@@ -19,7 +19,7 @@
 <h2>Stats<h2/>
 <div>
   <a align="left" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli30wsxg002608mrfw4eezh3/stats?cursusId=21&coalitionId=294" alt="gamoreir's 42 stats" /></a>
-  </a align="right"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimgabe-ex&layout=compact&theme=transparent">
+  </a align="right"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimgabe&layout=compact&theme=transparent">
 <div/>
 <!--
 **hiimgabe/hiimgabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

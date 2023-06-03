@@ -5,13 +5,16 @@
   Hi, my name is Gabriel but you can call me Gabe or even Gabi.<br>I am currently studying at a very cool school called 42-Porto. I love programming and everything technology wise,
   from restarting the internet router to writing complex "Hello world!" programs.<br>
   Speaking of which, here is some footage of me working:<br><br>
-  <p align="center"><img src="pcDEL.gif" class="center"/>
+  <p align="center"><img src="pcDEL.gif" class="center"/><br><br>
   <p/>
 </div>
-<h2></h2>
-<h2>My skills</h2>
+<h2>Skills</h2>
 <div>
-  
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,html,css,git,github,bash,linux,vim,ps,wordpress" />
+    </a>
+  </p>
 <div/>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli30wsxg002608mrfw4eezh3/stats?cursusId=21&coalitionId=294" alt="gamoreir's 42 stats" /></a>
 

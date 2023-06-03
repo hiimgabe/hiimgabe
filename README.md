@@ -1,10 +1,13 @@
-### Hi im gabe 👋
+### Hello world! I am Gabe :)
 
 <!--
 **hiimgabe/hiimgabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
+<div style="text-align: right"> Hi, my name is Gabriel but you can call me Gabe or even Gabi.<br>I am currently studying at a very cool school called 42-Porto. I love programming and everything technology wise, from restarting the internet router to writing complex "Hello world!" programs.<br>Speaking of which, here is some footage of me working:</div>
+<img src="pcDEL.gif"/>
 
 Here are some ideas to get you started:
-<iframe src="https://giphy.com/embed/P7PmvHY6kzAqY" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/P7PmvHY6kzAqY">via GIPHY</a></p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -9,6 +9,10 @@
   <p/>
 </div>
 <h2></h2>
+## My competencies
+<div>
+  
+<div/>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli30wsxg002608mrfw4eezh3/stats?cursusId=21&coalitionId=294" alt="gamoreir's 42 stats" /></a>
 
 <!--

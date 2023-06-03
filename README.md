@@ -9,7 +9,7 @@
   <p/>
 </div>
 <h2></h2>
-## My competencies
+## My skills
 <div>
   
 <div/>

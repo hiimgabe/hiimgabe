@@ -1,10 +1,10 @@
 ### Hi im gabe 👋
-<iframe src="https://giphy.com/embed/P7PmvHY6kzAqY" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/P7PmvHY6kzAqY">via GIPHY</a></p>
+
 <!--
 **hiimgabe/hiimgabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<iframe src="https://giphy.com/embed/P7PmvHY6kzAqY" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/P7PmvHY6kzAqY">via GIPHY</a></p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

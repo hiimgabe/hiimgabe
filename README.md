@@ -5,7 +5,7 @@
   Hi, my name is Gabriel but you can call me Gabe or even Gabi.<br>I am currently studying at a very cool school called 42-Porto. I love programming and everything technology wise,
   from restarting the internet router to writing complex "Hello world!" programs.<br>
   Speaking of which, here is some footage of me working:<br><br>
-  <p align="center"><img src="pcDEL.gif" class="center"/><br><br>
+  <p align="left"><img src="pcDEL.gif" class="center"/><br><br>
   <p/>
 </div>
 <h2>Skills</h2>
@@ -18,8 +18,11 @@
 <div/>
 <h2>Stats<h2/>
 <div>
-  <a align="left" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli30wsxg002608mrfw4eezh3/stats?cursusId=21&coalitionId=294" alt="gamoreir's 42 stats" /></a>
-  </a align="right"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimgabe&layout=compact&theme=transparent">
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiimgabe&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiimgabe&theme=material-palenight&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimgabe&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+</div>
 <div/>
 <!--
 **hiimgabe/hiimgabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

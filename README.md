@@ -11,9 +11,9 @@
 <h2>Stats<h2/>
 <div>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiimgabe&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" height="150" width="35%" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimgabe&layout=compact&langs_count=10&theme=transparent" height="150" width="30%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiimgabe&theme=material-palenight&hide_border=true" height="150" width="30%" alt="streak graph"/><br></br>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=hiimgabe&theme=material-palenight&hide_border=true" height="150" width="100%" alt="streak graph"/><br></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hiimgabe&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" height="150" width="100%" alt="stats graph"/>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimgabe&layout=compact&langs_count=10&theme=transparent" width="30%"/>
 </div>
 <div/>
 <!--

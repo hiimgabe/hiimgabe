@@ -1,13 +1,5 @@
-### Hello world! I am Gabe :)
+### Hello world! I am Gabriel :)
 
-## About me 
-<div style="text-align: right"> 
-  Hi, my name is Gabriel but you can call me Gabe or even Gabi.<br>I am currently studying at a very cool school called 42-Porto. I love programming and everything technology wise,
-  from restarting the internet router to writing complex "Hello world!" programs.<br>
-  Speaking of which, here is some footage of me working:<br><br>
-  <p align="left"><img src="pcDEL.gif" class="center"/><br><br>
-  <p/>
-</div>
 <h2>Skills</h2>
 <div>
   <p align="center">
@@ -19,8 +11,9 @@
 <h2>Stats<h2/>
 <div>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiimgabe&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiimgabe&theme=material-palenight&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiimgabe&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" height="150" width="35%" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimgabe&layout=compact&langs_count=10&theme=transparent" height="150" width="30%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiimgabe&theme=material-palenight&hide_border=true" height="150" width="30%" alt="streak graph"/><br></br>
 </div>
 <div/>
 <!--
